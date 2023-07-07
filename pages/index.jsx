@@ -7,7 +7,7 @@ const DUMMY_POSTS = [
     image: "getting-started-nextjs.png",
     excerpt:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, pariatur!",
-    date: "2022-02-10",
+    date: "2023-07-05",
     slug: "getting-started-with-nextjs",
   },
   {
@@ -15,7 +15,7 @@ const DUMMY_POSTS = [
     image: "getting-started-nextjs.png",
     excerpt:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, pariatur!",
-    date: "2022-02-10",
+    date: "2023-07-05",
     slug: "getting-started-with-nextjs2",
   },
   {
@@ -23,7 +23,7 @@ const DUMMY_POSTS = [
     image: "getting-started-nextjs.png",
     excerpt:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, pariatur!",
-    date: "2022-02-10",
+    date: "2023-07-05",
     slug: "getting-started-with-nextjs3",
   },
   {
@@ -31,7 +31,7 @@ const DUMMY_POSTS = [
     image: "getting-started-nextjs.png",
     excerpt:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, pariatur!",
-    date: "2022-02-10",
+    date: "2023-07-05",
     slug: "getting-started-with-nextjs4",
   },
 ];
