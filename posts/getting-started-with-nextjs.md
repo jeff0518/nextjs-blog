@@ -10,3 +10,5 @@ isFeatured: true
 # This is a title
 
 This is some regular text with a [link](https://google.com)
+
+![Create routes via your file + folder structure](routing.png)
